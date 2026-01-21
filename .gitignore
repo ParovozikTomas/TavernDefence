@@ -1,0 +1,72 @@
+```
+# Unity specific
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+*.unitypackage
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.userosscache
+*.unity-test-report
+[Ll]ocalPackages/
+.Packages/
+
+# Visual Studio
+*.sln
+*.csproj
+*.unityproj
+*.sln.meta
+*.csproj.meta
+*.unityproj.meta
+
+# Rider
+.idea/
+
+# Build results
+[Bb]uild/
+[Bb]uilds/
+[Tt]emp/
+[Ll]ibrary/
+[Oo]bj/
+Logs/
+MemoryCaptures/
+WebGLTemplates/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# User-specific settings
+/UserSettings/
+/ProjectSettings/
+
+# Package cache
+PackageCache/
+
+# Crash reports
+crashlytics-build.properties
+
+# Asset database
+.asset
+
+# Script update metadata
+.scriptupdatequeue
+```
